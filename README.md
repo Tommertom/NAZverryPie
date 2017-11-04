@@ -18,6 +18,7 @@ Currently features the following modules:
 - apache
 - Simple wrapper page in HTML to access the modules in an iframed page
 
+And a script to build your fstab
 
 All you can use in one, or just separately, on the commandline
 
