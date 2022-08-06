@@ -28,6 +28,8 @@ Some scripting expertise will be nice, as it has been a while since the scripts 
 # How to use
 Write the debian image to your SD card and boot the RPI with it
 SSH to RPI and login as pi (or plug keyboard in, HDMI cable and log into the console)
+Run sudo raspi-config and enable SSH in Interfaces
+Use putty to access the Raspberry Pi
 Download the latest version of the script by issuing the command:
 wget https://sourceforge.net/p/nazverrypie/code/ci/master/tree/nazverrypie.sh?format=raw -O nazverrypie.sh
 Run the script by issuing the command:
